@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "NedasPekorius",
+  "repo": "container-uoprpj0",
+  "name": "NedasPekorius",
+}
